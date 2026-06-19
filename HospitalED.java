@@ -12,8 +12,8 @@ import java.util.Scanner;
 
 public class HospitalED {
    static final String DB_URL = "jdbc:mysql://localhost/PROJECT";
-   static final String USER = "root";
-   static final String PASS = "CSC315er!";
+   static final String USER = "*****";
+   static final String PASS = "*******";
    
    public static void main(String[] args) {
 	   Scanner scanner = new Scanner(System.in);
