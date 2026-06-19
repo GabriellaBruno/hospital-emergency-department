@@ -1,0 +1,101 @@
+id,injury,procedures
+001,Head Injury,CT Scan
+002,Dizziness,Vital Signs Monitoring
+003,Cut on arm,Suturing
+004,Anxiety,Psychiatric Care
+005,Dehydration,IV Line Monitoring
+006,Chest pain,EKG
+007,Trouble breathing,Oxygen Administration
+008,Car accident,X-Ray
+009,Stomach pain,Ultrasound
+010,Fever,Blood Draw / Lab Test
+011,Cut on hand,Stapling Wounds
+012,Broken arm,Casting / Splinting
+013,Burn,Burn Care
+014,Head injury,CT Scan
+015,Trouble breathing,Oxygen Administration
+016,Chest pain,Cardiac Care
+017,Stroke symptoms,CT Scan
+018,Chest pain,EKG
+019,Seizure,Seizure Management
+020,Trouble breathing,Thoracostomy
+021,Chest pain,EKG
+022,Unconscious,Airway Management
+023,Stomach pain,Ultrasound
+024,Broken leg,Casting / Splinting
+025,Nausea,IV Line Monitoring
+026,Chest pain,Cardiac Care
+027,Fever,Blood Draw / Lab Test
+028,Head injury,CT Scan
+029,Anxiety,Psychiatric Care
+030,Car accident,X-Ray
+031,Dizziness,Vital Signs Monitoring
+032,Chest pain,EKG
+033,Cut on leg,Suturing
+034,Trouble breathing,Oxygen Administration
+035,Burn,Burn Care
+036,Fever,Blood Draw / Lab Test
+037,Anxiety,Psychiatric Care
+038,Chest pain,Cardiac Care
+039,Dehydration,IV Line Monitoring
+040,Seizure,Seizure Management
+041,Dizziness,Vital Signs Monitoring
+042,Sprained Ankle,Casting / Splinting
+043,Asthma Attack,Oxygen Administration
+044,Broken Wrist,X-Ray
+045,Concussion,CT Scan
+046,Cut on arm,Suturing
+047,Headache,Vital Signs Monitoring
+048,Chest Pain,Cardiac Care
+049,Flu,Blood Draw / Lab Test
+050,Breathing Problem,Oxygen Administration
+051,Sprained Knee,Casting / Splinting
+052,Allergy,IV Line Monitoring
+053,Burn,Burn Care
+054,Broken Leg,X-Ray
+055,Anxiety,Psychiatric Care
+056,Fever,Vital Signs Monitoring
+057,Stomach Pain,Ultrasound
+058,Heart Problem,Cardiac Care
+059,Headache,Sedations
+060,Breathing Problem,Oxygen Administration
+061,Seizure,Seizure Management
+062,Trauma,Airway Management
+063,Asthma Attack,Oxygen Administration
+064,Burn,Burn Care
+065,Stomach Pain,Ultrasound
+066,Chest Pain,Thoracostomy
+067,Anxiety,Psychiatric Care
+068,Broken Arm,X-Ray
+069,Headache,CT Scan
+070,Allergy,IV Line Monitoring
+071,Sprained Wrist,Casting / Splinting
+072,Chest Pain,Cardiac Care
+073,Burn,Burn Care
+074,Seizure,Seizure Management
+075,Headache,Vital Signs Monitoring
+076,Breathing Proble,Oxygen Administration
+077,Cut,Suturing
+078,Broken Finger,X-Ray
+079,Anxiety,Psychiatric Care
+080,Burn,Burn Care
+081,Stomach Pain,Ultrasound
+082,Broken Leg,Casting / Splinting
+083,Concussion,CT Scan
+084,Allergy,IV Line Monitoring
+085,Headache,Sedations
+086,Chest Pain,Thoracostomy
+087,Headache,Vital Signs Monitoring
+088,Chest Pain,Cardiac Care
+089,Flu,Blood Draw / Lab Test
+090,Fever,Vital Signs Monitoring
+091,Cough,Oxygen Administration
+092,Back Pain,Vital Signs Monitoring
+093,Stomach Pain,Ultrasound
+094,Chest Pain,Cardiac Care
+095,Fever,Vital Signs Monitoring
+096,Broken Arm,X-Ray
+097,Cut,Suturing
+098,Sprained Ankle,Casting / Splinting
+099,Headache,Vital Signs Monitoring
+100,Chest Pain,Cardiac Care

@@ -1,0 +1,31 @@
+procedure_id,procedures
+1000,Triage Assessment
+1001,Vital Signs Monitoring
+1002,IV Line Monitoring
+1003,Blood Draw / Lab Test
+1004,EKG
+1005,Oxygen Administration
+1006,Airway management
+1007,Endotracheal intubation
+1008,CPR
+1009,Defibrillation
+1010,Wound Irrigation
+1011,Suturing
+1012,Stapling Wounds
+1013,X-Ray
+1014,CT Scan
+1015,Ultrasound
+1016,Endoscopy
+1017,Casting / Splinting
+1018,Spinal Tap
+1019,Sedations
+1020,C Section
+1021,Thoracostomy
+1022,Central Line Placement
+1023,Toxicology Treatment
+1024,Seizure Management
+1025,Burn Care
+1026,ABG
+1027,RSI
+1028,Psychiatric
+1029,Cardiac Care
